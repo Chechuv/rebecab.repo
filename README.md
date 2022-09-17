@@ -1,1 +1,2 @@
 # rebecab.repo
+npm install
